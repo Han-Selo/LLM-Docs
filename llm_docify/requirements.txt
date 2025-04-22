@@ -1,0 +1,7 @@
+fastapi
+requests
+beautifulsoup4
+readability-lxml
+html2text
+uvicorn
+trafilatura
